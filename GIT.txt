@@ -1,0 +1,12 @@
+alunos@ESN602D1062307 MINGW64 ~/Desktop/GITHUB
+$ git config --global "thiagocuter"
+error: key does not contain a section: thiagocuter
+
+alunos@ESN602D1062307 MINGW64 ~/Desktop/GITHUB
+$ git config --global user.name "ThiagoCuter"
+
+alunos@ESN602D1062307 MINGW64 ~/Desktop/GITHUB
+$ git config --global user.email "thiagocuterribergrafica@gmail.com"
+
+alunos@ESN602D1062307 MINGW64 ~/Desktop/GITHUB
+
